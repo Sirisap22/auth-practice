@@ -1,0 +1,8 @@
+{
+  "name": "auth-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Sirisap22/auth-practice.git",
+  "author": "Sirisap Siripattanakul",
+  "license": "MIT"
+}
